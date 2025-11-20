@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**SaraSalah1/SaraSalah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Sara, a Frontend Developer passionate about building interactive and responsive web applications using **React.js** and **modern JavaScript (ES6+)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love turning ideas into real, functional web experiences and learning new tools along the way.
+
+---
+
+## Tools & Tech
+
+* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+* **Styling & UI:** Tailwind CSS, Material-UI
+* **State & Routing:** React Router, State Management (Context API / Redux)
+* **APIs & Storage:** Fetch API, LocalStorage
+* **Others:** Authentication, Forms handling
+
+---
+
+## A Bit About Me
+
+* 🌱 I’m always learning and experimenting with new frontend tools
+* 🎨 I enjoy crafting clean and responsive UI designs
+  
+---
+
+Check out my projects and ongoing experiments here!
