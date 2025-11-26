@@ -1,7 +1,7 @@
 
-# Hi there 👋
+# Hi 👋, I'm Sara Salah
 
-I'm Sara, a Frontend Developer passionate about building interactive and responsive web applications using **React.js** and **modern JavaScript (ES6+)**.
+💻 Frontend Developer from Egypt
 
 I love turning ideas into real, functional web experiences and learning new tools along the way.
 
