@@ -4,6 +4,9 @@
 💻 Frontend Developer from Egypt
 
 I love turning ideas into real, functional web experiences and learning new tools along the way.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarasalah1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
