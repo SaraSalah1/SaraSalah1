@@ -4,9 +4,8 @@
 
 ### Software Engineer | QA Automation | Frontend Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sara-salah1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.salah0019@gmail.com)
 
 📍 Cairo, Egypt
 
@@ -77,42 +76,19 @@ Software Engineer with strong expertise in **automated testing** and **frontend 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-Check out my pinned repositories below for examples of:
-- 🧪 Test automation frameworks with comprehensive coverage
-- 🌐 Full-stack applications built with modern technologies
-- 🎨 UI component libraries with accessibility features
-- 🔧 Developer tools and utilities solving real problems
-
 ---
 
 ## 📫 Get In Touch
 
 I'm open to discussing opportunities where I can contribute my testing and development expertise. Whether you're looking for someone to strengthen your QA processes, build reliable frontend features, or both—let's connect.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-salah1/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.salah0019@gmail.com)
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
 
 **⭐ Star my repos if you find them interesting!**
 
