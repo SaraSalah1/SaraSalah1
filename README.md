@@ -1,74 +1,119 @@
-# Hi 👋, I'm Sara Salah
-💻 Software Engineer from Egypt
+<div align="center">
+  
+# Hi, I'm Sara Salah 👋
 
-I love building reliable software, creating clean web experiences, and exploring new technologies.
+### Software Engineer | QA Automation | Frontend Development
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+📍 Cairo, Egypt
+
+</div>
 
 ---
 
-## 🛠 Tools & Tech
+## 🚀 About Me
 
-### Testing & Quality Assurance
-<p align="left">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Testing-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+Software Engineer with strong expertise in **automated testing** and **frontend development**. I build reliable web applications and create comprehensive test suites that catch bugs before they reach production. My approach combines quality assurance practices with modern development workflows to deliver maintainable, production-ready code.
 
-### Programming & Development
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**Core Strengths:**
+- Designing and implementing automated test frameworks (Selenium, Playwright, Cypress)
+- Building responsive React applications with clean, testable code
+- Working in agile environments with version control and CI/CD pipelines
+- Writing clear technical documentation and collaborating effectively with teams
+
+---
+
+## 🛠️ Tech Stack
+
+### Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Frontend Development
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-0277BD?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Styling & UI
-<p align="left">
-<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7B1FA2?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-</p>
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### AI & Machine Learning (Learning)
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+### Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
-## A Bit About Me
+## 💼 What I Deliver
 
-* 🧪 Passionate about software quality, testing, and automation
-* 💻 Love crafting clean, responsive web applications
-* 🤖 Exploring AI/ML fundamentals and their real-world applications
-* 🎨 Enjoy working across the full development cycle—from design to testing
+**Automated Testing Solutions**
+- End-to-end test automation frameworks that reduce manual testing time
+- Integration with CI/CD pipelines for continuous quality assurance
+- Comprehensive test coverage across UI, API, and integration layers
+
+**Frontend Development**
+- Modern, responsive web applications using React and Next.js
+- Component-based architecture with reusable, maintainable code
+- Accessible, performant interfaces following web standards
+
+**Quality Mindset**
+- Write tests alongside features, not as an afterthought
+- Debug complex issues efficiently and document solutions
+- Code reviews focused on maintainability and best practices
 
 ---
 
-Check out my projects and ongoing experiments here!
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+Check out my pinned repositories below for examples of:
+- 🧪 Test automation frameworks with comprehensive coverage
+- 🌐 Full-stack applications built with modern technologies
+- 🎨 UI component libraries with accessibility features
+- 🔧 Developer tools and utilities solving real problems
+
+---
+
+## 📫 Get In Touch
+
+I'm open to discussing opportunities where I can contribute my testing and development expertise. Whether you're looking for someone to strengthen your QA processes, build reliable frontend features, or both—let's connect.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+
+**⭐ Star my repos if you find them interesting!**
+
+</div>
