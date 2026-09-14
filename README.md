@@ -1,11 +1,11 @@
 <div align="center">
-  
+
 # Hi, I'm Sara Salah 👋
 
-### Software Engineer | QA Automation | Frontend Development
+### Agentic AI Engineer | Generative AI | Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sara-salah1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.salah0019@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sara-salah1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sara.salah0019@gmail.com)
 
 📍 Cairo, Egypt
 
@@ -15,81 +15,142 @@
 
 ## 🚀 About Me
 
-Software Engineer with strong expertise in **automated testing** and **frontend development**. I build reliable web applications and create comprehensive test suites that catch bugs before they reach production. My approach combines quality assurance practices with modern development workflows to deliver maintainable, production-ready code.
+Computer Science graduate and **Agentic AI Trainee** focused on building practical applications with **Generative AI, LLMs, RAG, and AI Agents**.
 
-**Core Strengths:**
-- Designing and implementing automated test frameworks (Selenium, Playwright, Cypress)
-- Building responsive React applications with clean, testable code
-- Working in agile environments with version control and CI/CD pipelines
-- Writing clear technical documentation and collaborating effectively with teams
+I enjoy understanding how LLM-based systems work and turning AI concepts into useful applications. My current focus is on **LLM APIs, prompt engineering, RAG and memory systems, AI agents, and multi-agent systems**, while strengthening my backend development skills with Python and FastAPI.
+
+I also have a background in software development and software testing, which helps me approach AI applications with a strong focus on **reliability, debugging, and maintainable code**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 AI & LLM Skills
 
-### Testing & Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformer_Architecture-FF6F00?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### LLM Development
 
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+* LLM APIs
+* API Integration
+* Prompt Engineering & Advanced Prompting
+* Hugging Face Models
+* LLM Architecture
+* LLM Behavior & Debugging
 
-### Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### RAG & Agentic AI
+
+* Retrieval-Augmented Generation (RAG)
+* Memory Systems
+* AI Agents
+* Agentic AI Fundamentals
+* Multi-Agent Systems
+* Knowledge Integration
 
 ---
 
-## 💼 What I Deliver
+## 💻 Backend & Programming
 
-**Automated Testing Solutions**
-- End-to-end test automation frameworks that reduce manual testing time
-- Integration with CI/CD pipelines for continuous quality assurance
-- Comprehensive test coverage across UI, API, and integration layers
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-**Frontend Development**
-- Modern, responsive web applications using React and Next.js
-- Component-based architecture with reusable, maintainable code
-- Accessible, performant interfaces following web standards
-
-**Quality Mindset**
-- Write tests alongside features, not as an afterthought
-- Debug complex issues efficiently and document solutions
-- Code reviews focused on maintainability and best practices
+* Python
+* FastAPI
+* REST APIs
+* PostgreSQL
+* Object-Oriented Programming
+* Data Structures & Algorithms
 
 ---
 
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+* Git & GitHub
+* VS Code
+* API Development & Integration
+* Software Testing & Debugging
+* Jira
+
 ---
 
-## 📫 Get In Touch
+## 📚 Currently Learning
 
-I'm open to discussing opportunities where I can contribute my testing and development expertise. Whether you're looking for someone to strengthen your QA processes, build reliable frontend features, or both—let's connect.
+I'm continuously developing my skills in:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-salah1/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.salah0019@gmail.com)
+* 🔹 Agentic AI & LLM Applications
+* 🔹 RAG & Memory Systems
+* 🔹 Multi-Agent Systems
+* 🔹 LangChain & LangGraph
+* 🔹 AI Application Development
+* 🔹 AI Evaluation & Debugging
+* 🔹 Deployment & Monitoring
+
+---
+
+## 💼 What I'm Interested In
+
+I'm currently focused on opportunities related to:
+
+* 🤖 **Agentic AI Engineering**
+* 🧠 **Generative AI & LLM Applications**
+* 🔗 **RAG & AI Agent Systems**
+* 🐍 **Python Backend Development**
+* 🚀 **AI Application Development**
+
+My goal is to build AI systems that can **understand context, use tools, retrieve knowledge, maintain memory, and complete tasks reliably**.
+
+---
+
+## 📂 Projects
+
+### 🤖 AI & Agentic AI Projects
+
+I'm currently building projects that explore:
+
+* LLM-powered applications
+* RAG-based systems
+* AI agents and tool usage
+* Memory and context management
+* Multi-agent workflows
+* AI-powered productivity tools
+
+Check out my repositories to see my projects and learning journey.
+
+---
+
+## 🎓 Education & Training
+
+**B.Sc. in Computer Science**
+October 6 University — Faculty of Information Systems and Computer Science
+2021 – 2025
+
+**Digital Egypt Pioneers Initiative (DEPI)**
+Agentic AI & Generative AI System Developer
+2026
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with people working in **AI, Generative AI, Agentic AI, and software engineering**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sara-salah1/)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sara.salah0019@gmail.com)
 
 ---
 
 <div align="center">
 
+**Building, learning, and experimenting with AI 🤖**
 
-**⭐ Star my repos if you find them interesting!**
+⭐ Feel free to explore my repositories!
 
 </div>
